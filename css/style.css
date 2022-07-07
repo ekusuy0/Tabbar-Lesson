@@ -59,3 +59,8 @@ h1 {
   color: #000;
   line-height: 2.5;
 }
+
+.weather-search {
+  margin-top: 20px;
+  text-align: center;
+}
